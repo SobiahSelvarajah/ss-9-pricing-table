@@ -1,0 +1,34 @@
+/* general setting */
+li {
+    list-style: none;
+    text-align: center;
+    padding-bottom: 0.5rem;
+}
+.pricing_plan {
+    background-color: #E8E8E8;
+    border-radius: 5px;
+    padding: 1rem;
+}
+.plan_title,
+.plan_price {
+    font-family: 'Sono';
+    font-style: normal;
+    font-weight: 700;
+}
+.plan_price {
+    font-size: 1.5rem;
+}
+.plan_features {
+    font-family: 'Sono';
+    font-style: normal;
+    font-weight: 400;
+    padding: 0;
+}
+.plan_button {
+    font-size: 10px;
+    background-color: #FF7518;
+    border-radius: 5px;
+    border: none;
+    padding: 0.5rem;
+    color: white;
+}
